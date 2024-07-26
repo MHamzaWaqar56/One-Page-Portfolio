@@ -1,0 +1,12 @@
+.App{
+  height: 100%;
+
+  &__main-page-content{
+      height: calc(100% - 80px);
+  }
+
+}
+.section {
+  padding-left: 2rem;
+  padding-right: 2rem;
+}

@@ -1,0 +1,114 @@
+.footer{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    background-color: #181818;
+
+
+    &__icons{
+        display: flex;
+        justify-content: center;
+        top: -34px;
+        position: relative;
+
+        &__linkedin ,&__facebook, &__instagram, &__whatsapp{
+            color: var(--yellow-theme-main-color);
+            font-size: 60px;
+            padding: 1px 15px;
+            
+        }
+
+        &__p1 , &__p2{
+            top: -28px;
+            border-bottom: 1px dotted var(--yellow-theme-main-color);
+            width: 40%;
+            position: relative;
+        }
+
+        &__p1{
+            left: -29px;
+        }
+
+        &__p2{
+            right: -29px;
+        }
+
+    }
+
+    &__content{
+        display: flex;
+        justify-content: center;
+        padding-bottom: 50px;
+
+        &__text{
+            color: var(--yellow-theme-main-color);
+            font-size: 40px;
+        }
+
+    }
+
+}
+
+
+
+@media only screen and (max-width: 480px){
+
+    .footer{
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        position: relative;
+        padding-left: 2rem;
+        padding-right: 2rem;
+    
+    
+        &__icons{
+            display: flex;
+            justify-content: center;
+            top: -22px;
+            position: relative;
+    
+            &__linkedin ,&__facebook, &__instagram, &__whatsapp{
+                color: var(--yellow-theme-main-color);
+                font-size: 40px;
+                padding: 1px 10px;
+                
+            }
+    
+            &__p1 , &__p2{
+                top: -20px;
+                border-bottom: 1px dotted var(--yellow-theme-main-color);
+                width: 45%;
+                position: relative;
+            }
+    
+            &__p1{
+                left: -20px;
+            }
+    
+            &__p2{
+                right: -20px;
+            }
+    
+        }
+    
+        &__content{
+            display: flex;
+            justify-content: center;
+            padding-bottom: 50px;
+    
+            &__text{
+                color: var(--yellow-theme-main-color);
+                font-size: 30px;
+            }
+    
+        }
+    
+    }
+    
+
+
+}
