@@ -27,7 +27,7 @@ const PersonalDetails = [
 ];
 
 const jobSummary =
-  "My name is M Hamza Waqar. I'm a Software Engineer and dedicated Frontend Web Developer with 2 years of experience in designing, developing, and implementing innovative web solutions. Proficient in Frontend Technologies like React.js. I have strong knowledge about HTML, CSS, TAILWIND, JavaScript, React.js, MongoDB, and WordPress. On the other hand, I have a little bit of knowledge about Express.js and Node.js. I graduated from the University of Sahiwal recently with a Bachelor of Software Engineering specializing in Web Development. I had Developed my final year (Ecommerce Website) project in the Mern stack.";
+  "I'm a Software Engineer with a specialization in Frontend Web Development, backed by 2 years of hands-on experience in designing and developing web applications. I possess a strong command of HTML, CSS, Tailwind, JavaScript, React.js, MongoDB, and WordPress, alongside a solid understanding of Express.js and Node.js. I recently graduated with a Bachelor's degree in Software Engineering from the University of Sahiwal, where I focused on advanced web development practices. I am committed to delivering high-quality, user-friendly web solutions that align with the latest industry standards.";
 
 const About = () => {
   return (
