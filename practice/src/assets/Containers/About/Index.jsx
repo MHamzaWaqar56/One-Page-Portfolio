@@ -20,10 +20,10 @@ const PersonalDetails = [
     label: "Email :",
     value: "hamzarajpoot3912@gmail.com",
   },
-  {
-    label: "Whatsapp : ",
-    value: "03366776269",
-  },
+  // {
+  //   label: "Whatsapp : ",
+  //   value: "03366776269",
+  // },
 ];
 
 const jobSummary =

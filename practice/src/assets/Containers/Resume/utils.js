@@ -37,7 +37,7 @@ export const data = {
     {
       title: "Matriculation",
       subTitle: "Dawn High School ChichaWatni",
-      description: "I passed my higher education with an A.",
+      description: "I passed my higher education with an A+ Grade.",
       duration: "2016 - 2018",
     },
   ],
