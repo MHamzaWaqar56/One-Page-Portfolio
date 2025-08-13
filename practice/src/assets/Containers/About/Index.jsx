@@ -27,7 +27,7 @@ const PersonalDetails = [
 ];
 
 const jobSummary =
-  "I'm a Software Engineer with a specialization in Frontend Web Development, backed by 2 years of hands-on experience in designing and developing web applications. I possess a strong command of HTML, CSS, Tailwind, JavaScript, React.js, MongoDB, and WordPress, alongside a solid understanding of Express.js and Node.js. I recently graduated with a Bachelor's degree in Software Engineering from the University of Sahiwal, where I focused on advanced web development practices. I am committed to delivering high-quality, user-friendly web solutions that align with the latest industry standards.";
+  "I’m a Software Engineer specializing in Web Development, with 2 years of practical experience in creating modern, responsive, and user-friendly web applications. My expertise HTML, CSS, Tailwind CSS, JavaScript, React.js, WordPress, and MongoDB, along with a solid working knowledge of Express.js and Node.js. I hold a Bachelor’s degree in Software Engineering from the University of Sahiwal, where I focused on advanced web development methodologies. I am passionate about delivering high-quality, performance-driven digital solutions that meet the latest industry standards and provide exceptional user experiences";
 
 const About = () => {
   return (
