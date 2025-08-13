@@ -9,7 +9,7 @@ const Home = () => {
         <h1>
           Hello, I am M Hamza Waqar
           <br />
-          Frontend Developer
+          Web Developer
         </h1>
       </div>
 
