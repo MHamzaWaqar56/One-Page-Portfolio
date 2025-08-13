@@ -4,20 +4,20 @@ export const data = {
       title: "Frontend Development",
       subTitle: "Chichawatni , Pakistan",
       description:
-        "User Experiences and Visual Design Using HTML , CSS and JavaScript",
+        "Designed and developed the frontend using HTML, CSS, and JavaScript.",
       duration: "Feb 2021 - April 2023",
     },
     {
-      title: "WordPress - Elementor",
+      title: "WordPress",
       subTitle: "ChichaWatni , Pakistan",
-      description: "Web Development using Elementor in WordPress",
+      description: "Developed and customized a WordPress-based software solution.",
       duration: "Jan 2022 - April 2023",
     },
     {
       title: "Frontend Development",
       subTitle: "ChichaWatni , Pakistan",
       description:
-        "Create Stunning websites using React.js , Tailwind , CSS , Bootstrap  ",
+        "Built responsive user interfaces using React and Tailwind CSS.",
       duration: "Sep 2021 - April 2023",
     },
   ],
@@ -25,7 +25,7 @@ export const data = {
     {
       title: "BS Software Engineering",
       subTitle: "University Of Sahiwal",
-      description: "I graduated with a 2.97 CGPA.",
+      description: "I graduated with a 2.96 CGPA.",
       duration: "2020 - 2024",
     },
     {
