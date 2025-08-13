@@ -39,7 +39,7 @@ const Navbar = () => {
         <div className="navbar__container">
           <div class="navbar__container__div">
           <Link to={"/"} className="navbar__container__div__logo">
-            <img src={profile} alt="profile" />
+            <img src={profile} alt="profile" class="navbar__container__div__logo__img" />
           </Link>
           </div>  
         </div>
