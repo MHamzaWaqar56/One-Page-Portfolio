@@ -19,10 +19,16 @@
     padding: 0px 20px;
     flex: 1;
 
+   &__div{
+       width: 100px;
+       height: 100px;
+       
+
     &__logo{
         color : var(--yellow-theme-main-color);
         cursor: pointer;
     }
+}    
 
     &__menu{
         display: flex;
@@ -55,7 +61,6 @@
                 padding: 0.5rem;
             }
         }
-        
     }
 
    } 
