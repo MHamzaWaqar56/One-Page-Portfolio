@@ -19,6 +19,12 @@ const portfolioData = [
     link: "https://github.com/MHamzaWaqar56/TechEmporium-Ecommerce-Website/tree/master",
   },
   {
+    id: 4,
+    name: "C2S Energy",
+    image: ImageSeven,
+    link: "https://c2senergy.com/",
+  },
+  {
     id: 3,
     name: "Blog App",
     link: "https://github.com/MHamzaWaqar56/Blog-App-with-React",
@@ -29,6 +35,12 @@ const portfolioData = [
     name: "Clutter Words Game",
     image: ImageThree,
     link: "https://github.com/MHamzaWaqar56/Clutter-Word-Game-Website",
+  },
+  {
+    id: 4,
+    name: "Girls Life",
+    image: ImageSeven,
+    link: "https://girlslife.com/",
   },
   {
     id: 2,
@@ -49,10 +61,22 @@ const portfolioData = [
     link: "https://github.com/MHamzaWaqar56/Calculator-",
   },
   {
+    id: 4,
+    name: "Virtual Pulp",
+    image: ImageSeven,
+    link: "https://www.virtualpulppress.com/",
+  },
+  {
     id: 3,
     name: "Trucking Assist",
     image: ImageEight,
     link: "https://github.com/MHamzaWaqar56/Trucking-Assist-App-Design",
+  },
+  {
+    id: 4,
+    name: "2 Know How",
+    image: ImageSeven,
+    link: "https://2knowhow.nl/",
   },
   {
     id: 3,
@@ -74,6 +98,10 @@ const filterData = [
   {
     filterId: 3,
     label: "Design",
+  },
+  {
+    filterId: 4,
+    label: "Wordpress",
   },
 ];
 
