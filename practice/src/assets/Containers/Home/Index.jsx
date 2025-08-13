@@ -7,9 +7,11 @@ const Home = () => {
     <section id="home" className="home">
       <div className="home__text_wrapper">
         <h1>
-          Hello, I am M Hamza Waqar
+          Hi, I am M Hamza Waqar
           <br />
-          Web Developer
+          Crafting Modern & Responsive Websites
+          <br/>
+          for Ideas That Deserve to Shine 🚀
         </h1>
       </div>
 
