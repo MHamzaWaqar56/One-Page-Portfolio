@@ -1,4 +1,14 @@
 export const skillsData = [
+
+  {
+    label: "CMS",
+    data: [
+      {
+        skillName: "WordPress",
+        percentage: "100",
+      },
+    ],
+  },
   {
     label: "FRONT END",
     data: [
