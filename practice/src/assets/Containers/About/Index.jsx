@@ -10,7 +10,7 @@ const PersonalDetails = [
   },
   {
     label: "Age :",
-    value: "22",
+    value: "23",
   },
   {
     label: "Address :",
@@ -41,7 +41,7 @@ const About = () => {
             start={{ transform: "translateX(-900px)" }}
             end={{ transform: "translateY(0px)" }}
           >
-            <h3>Frontend Developer</h3>
+            <h3>Web Developer</h3>
             <p>{jobSummary}</p>
           </Animate>
 
