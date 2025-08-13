@@ -1,6 +1,7 @@
 import { useState } from "react";
 import { FaBars, FaReact } from "react-icons/fa";
 import { HiX } from "react-icons/hi";
+import profile from "../../Images/profile";
 import { Link } from "react-scroll";
 import "./Style.scss";
 const data = [
@@ -38,7 +39,7 @@ const Navbar = () => {
         <div className="navbar__container">
           <div class="navbar__container__div">
           <Link to={"/"} className="navbar__container__div__logo">
-            <FaReact size={30} />
+            <img src={profile} alt="profile" />
           </Link>
           </div>  
         </div>
