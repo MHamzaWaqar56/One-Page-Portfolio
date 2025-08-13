@@ -36,7 +36,7 @@ const Navbar = () => {
     <div>
       <nav className="navbar">
         <div className="navbar__container">
-          <div class="nav__container__div">
+          <div class="navbar__container__div">
           <Link to={"/"} className="navbar__container__div__logo">
             <FaReact size={30} />
           </Link>
