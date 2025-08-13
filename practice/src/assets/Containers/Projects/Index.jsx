@@ -7,6 +7,10 @@ import ImageFive from "../../Images/image5.jpg";
 import ImageSix from "../../Images/Calculator.jpg";
 import ImageSeven from "../../Images/Clock.jpg";
 import ImageEight from "../../Images/Truck.jpg";
+import ImageNine from "../../Images/C2S-Energy.png";
+import ImageTen from "../../Images/girls-life.png";
+import ImageEleven from "../../Images/Virtual-pulp.png";
+import ImageTwelve from "../../Images/2knowhow.png";
 import "./Style.scss";
 // import { Link } from "react-router-dom";
 // import { Link as RouterLink } from "react-router-dom";
@@ -21,7 +25,7 @@ const portfolioData = [
   {
     id: 4,
     name: "C2S Energy",
-    image: ImageSeven,
+    image: ImageNine,
     link: "https://c2senergy.com/",
   },
   {
@@ -39,7 +43,7 @@ const portfolioData = [
   {
     id: 4,
     name: "Girls Life",
-    image: ImageSeven,
+    image: ImageTen,
     link: "https://girlslife.com/",
   },
   {
@@ -63,7 +67,7 @@ const portfolioData = [
   {
     id: 4,
     name: "Virtual Pulp",
-    image: ImageSeven,
+    image: ImageEleven,
     link: "https://www.virtualpulppress.com/",
   },
   {
@@ -75,7 +79,7 @@ const portfolioData = [
   {
     id: 4,
     name: "2 Know How",
-    image: ImageSeven,
+    image: ImageTwelve,
     link: "https://2knowhow.nl/",
   },
   {
