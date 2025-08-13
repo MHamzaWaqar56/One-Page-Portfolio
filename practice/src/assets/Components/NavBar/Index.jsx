@@ -22,7 +22,7 @@ const data = [
     to: "resume",
   },
   {
-    label: "PROJECTS",
+    label: "PROJECT",
     to: "projects",
   },
 ];
