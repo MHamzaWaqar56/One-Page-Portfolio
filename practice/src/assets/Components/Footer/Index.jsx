@@ -44,7 +44,7 @@ const Footer = () => {
       </div>
 
       <div className="footer__content">
-        <h3 className="footer__content__text">Thanks for Scrolling </h3>
+        <h3 className="footer__content__text">Thank You for Visiting My Portfolio</h3>
       </div>
     </div>
   );
