@@ -1,7 +1,7 @@
 import { useState } from "react";
 import { FaBars, FaReact } from "react-icons/fa";
 import { HiX } from "react-icons/hi";
-import profile from "../../Images/profile";
+import profile from "../../Images/profile.jpeg";
 import { Link } from "react-scroll";
 import "./Style.scss";
 const data = [
