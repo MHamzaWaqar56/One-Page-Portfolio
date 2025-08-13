@@ -115,6 +115,7 @@
   @media only screen and (max-width: 480px){
       .portfolio__content__filter{
         height: 41px;
+        display: flex;
 
        li{
           font-size: 8px;
