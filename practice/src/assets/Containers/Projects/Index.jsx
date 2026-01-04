@@ -46,6 +46,30 @@ const portfolioData = [
     image: ImageTen,
     link: "https://girlslife.com/",
   },
+  // {
+  //   id: 4,
+  //   name: "Elevated Video Solutions",
+  //   image: ImageTen,
+  //   link: "https://elevatedvideosolutions.com/",
+  // },
+  // {
+  //   id: 4,
+  //   name: "Blue Line SEO",
+  //   image: ImageTen,
+  //   link: "https://bluelineseo.com/",
+  // },
+  // {
+  //   id: 4,
+  //   name: "Standley Law Office",
+  //   image: ImageTen,
+  //   link: "https://standleylawoffice.com/",
+  // },
+  // {
+  //   id: 4,
+  //   name: "Roving Compass",
+  //   image: ImageTen,
+  //   link: "https://rovingcompass.com/",
+  // },
   {
     id: 2,
     name: "Todo List App",
