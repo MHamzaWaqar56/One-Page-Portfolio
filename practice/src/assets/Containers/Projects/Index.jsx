@@ -52,7 +52,7 @@ const portfolioData = [
   },
   {
     id: 4,
-    name: "Elevated Video Solutions",
+    name: "Elevated Solutions",
     image: ImageFifteen,
     link: "https://elevatedvideosolutions.com/",
   },
