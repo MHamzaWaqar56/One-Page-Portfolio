@@ -12,6 +12,10 @@ import ImageTen from "../../Images/girls-life.png";
 import ImageEleven from "../../Images/Virtual-pulp.png";
 import ImageTwelve from "../../Images/2knowhow.png";
 import "./Style.scss";
+import ImageThirteen from "../../Images/StandleyLaw.png";
+import ImageFourteen from "../../Images/RovingCompass.png";
+import ImageFifteen from "../../Images/elevatedvideoweb.png";
+import ImageSixteen from "../../Images/BlueLine.png";
 // import { Link } from "react-router-dom";
 // import { Link as RouterLink } from "react-router-dom";
 
@@ -35,6 +39,12 @@ const portfolioData = [
     image: ImageTwo,
   },
   {
+    id: 4,
+    name: "Girls Life",
+    image: ImageTen,
+    link: "https://girlslife.com/",
+  },
+  {
     id: 2,
     name: "Clutter Words Game",
     image: ImageThree,
@@ -42,34 +52,10 @@ const portfolioData = [
   },
   {
     id: 4,
-    name: "Girls Life",
-    image: ImageTen,
-    link: "https://girlslife.com/",
+    name: "Elevated Video Solutions",
+    image: ImageFifteen,
+    link: "https://elevatedvideosolutions.com/",
   },
-  // {
-  //   id: 4,
-  //   name: "Elevated Video Solutions",
-  //   image: ImageTen,
-  //   link: "https://elevatedvideosolutions.com/",
-  // },
-  // {
-  //   id: 4,
-  //   name: "Blue Line SEO",
-  //   image: ImageTen,
-  //   link: "https://bluelineseo.com/",
-  // },
-  // {
-  //   id: 4,
-  //   name: "Standley Law Office",
-  //   image: ImageTen,
-  //   link: "https://standleylawoffice.com/",
-  // },
-  // {
-  //   id: 4,
-  //   name: "Roving Compass",
-  //   image: ImageTen,
-  //   link: "https://rovingcompass.com/",
-  // },
   {
     id: 2,
     name: "Todo List App",
@@ -77,10 +63,22 @@ const portfolioData = [
     link: "https://github.com/MHamzaWaqar56/Authentiacted-Todo-List-App-In-Mern-Stack-",
   },
   {
+    id: 4,
+    name: "Roving Compass",
+    image: ImageFourteen,
+    link: "https://rovingcompass.com/",
+  },
+  {
     id: 3,
     name: "Portfolio Website",
     image: ImageFive,
     link: "https://github.com/MHamzaWaqar56/Portfolio-Website",
+  },
+  {
+    id: 4,
+    name: "Standley Law Office",
+    image: ImageThirteen,
+    link: "https://standleylawoffice.com/",
   },
   {
     id: 2,
@@ -111,6 +109,12 @@ const portfolioData = [
     name: "Analog Clock",
     image: ImageSeven,
     link: "https://github.com/MHamzaWaqar56/AnaLog-Clock",
+  },
+  {
+    id: 4,
+    name: "Blue Line SEO",
+    image: ImageSixteen,
+    link: "https://bluelineseo.com/",
   },
 ];
 
