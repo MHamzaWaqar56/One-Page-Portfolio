@@ -10,7 +10,7 @@ const PersonalDetails = [
   },
   {
     label: "Age :",
-    value: "23",
+    value: "24",
   },
   {
     label: "Address :",
@@ -27,7 +27,7 @@ const PersonalDetails = [
 ];
 
 const jobSummary =
-  "I’m a Software Engineer specializing in Web Development, with 2 years of practical experience in creating modern, responsive, and user-friendly web applications. My expertise HTML, CSS, Tailwind CSS, JavaScript, React.js, WordPress, and MongoDB, along with a solid working knowledge of Express.js and Node.js. I hold a Bachelor’s degree in Software Engineering from the University of Sahiwal, where I focused on advanced web development methodologies. I am passionate about delivering high-quality, performance-driven digital solutions that meet the latest industry standards and provide exceptional user experiences";
+  "I’m a Software Engineer specializing in WordPress and web development, with over two years of experience building responsive and user-friendly websites. I have strong expertise in WordPress, HTML, CSS, Tailwind CSS, JavaScript, and React.js, along with working knowledge of MongoDB, Express.js, and Node.js. I hold a Bachelor’s degree in Software Engineering from the University of Sahiwal and am committed to delivering high-quality, performance-driven web solutions aligned with industry standards.";
 
 const About = () => {
   return (
